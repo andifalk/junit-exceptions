@@ -27,7 +27,7 @@ following mechanisms:
 
 ## JUnit 5
 
-The test class _info.example.junit4.HelloWorldTest_ shows different ways to verify exceptions in JUnit 4 style using
+The test class _info.example.junit5.HelloWorldTest_ shows different ways to verify exceptions in JUnit 5 style using
 following mechanisms:
 
 *  manually (the _anti-pattern_)
