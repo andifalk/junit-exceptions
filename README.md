@@ -2,7 +2,7 @@
 
 This github repository contains short code samples showing how (not) to
 verify exceptions and exception messages in unit tests using
-for [JUnit 4](http://junit.org/junit4), [JUnit 5](http://junit.org/junit5) and [AssertJ](https://joel-costigliola.github.io/assertj).
+ [JUnit 4](http://junit.org/junit4), [JUnit 5](http://junit.org/junit5) and [AssertJ](https://joel-costigliola.github.io/assertj).
 
 ## Class under test
 
